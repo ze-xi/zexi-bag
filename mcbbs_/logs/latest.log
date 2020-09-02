@@ -1,0 +1,130 @@
+[12:03:18] [Server thread/INFO]: Starting minecraft server version 1.12.2
+[12:03:18] [Server thread/INFO]: Loading properties
+[12:03:18] [Server thread/INFO]: Default game type: SURVIVAL
+[12:03:19] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-f982156-22564a9 (MC: 1.12.2) (Implementing API version 1.12.2-R0.1-SNAPSHOT)
+[12:03:19] [Server thread/INFO]: Debug logging is disabled
+[12:03:19] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[12:03:19] [Server thread/INFO]: Using 4 threads for Netty based IO
+[12:03:19] [Server thread/INFO]: Generating keypair
+[12:03:19] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:03:19] [Server thread/INFO]: Using default channel type
+[12:03:19] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[12:03:19] [Server thread/INFO]: [MyfirstPlugin] Loading MyfirstPlugin v1.0
+[12:03:19] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12:03:19] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[12:03:19] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[12:03:19] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[12:03:19] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[12:03:19] [Server thread/INFO]: Preparing level "world"
+[12:03:19] [Server thread/INFO]: -------- World Settings For [world] --------
+[12:03:19] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:03:19] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:03:19] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:03:19] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:03:19] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:03:19] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:03:19] [Server thread/INFO]: View Distance: 10
+[12:03:19] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:03:19] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:03:19] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:03:19] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:03:19] [Server thread/INFO]: Max TNT Explosions: 100
+[12:03:19] [Server thread/INFO]: Structure Info Saving: true
+[12:03:19] [Server thread/INFO]: Random Lighting Updates: false
+[12:03:19] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:03:19] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:03:19] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:03:19] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:03:19] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:03:19] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:03:19] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:03:19] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:03:19] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:03:19] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:03:19] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:03:19] [Server thread/INFO]: Mob Spawn Range: 4
+[12:03:19] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:03:20] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[12:03:20] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:03:20] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:03:20] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:03:20] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:03:20] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:03:20] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:03:20] [Server thread/INFO]: View Distance: 10
+[12:03:20] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:03:20] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:03:20] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:03:20] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:03:20] [Server thread/INFO]: Max TNT Explosions: 100
+[12:03:20] [Server thread/INFO]: Structure Info Saving: true
+[12:03:20] [Server thread/INFO]: Random Lighting Updates: false
+[12:03:20] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:03:20] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:03:20] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:03:20] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:03:20] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:03:20] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:03:20] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:03:20] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:03:20] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:03:20] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:03:20] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:03:20] [Server thread/INFO]: Mob Spawn Range: 4
+[12:03:20] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:03:20] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[12:03:20] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:03:20] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:03:20] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[12:03:20] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:03:20] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:03:20] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:03:20] [Server thread/INFO]: View Distance: 10
+[12:03:20] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:03:20] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[12:03:20] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:03:20] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[12:03:20] [Server thread/INFO]: Max TNT Explosions: 100
+[12:03:20] [Server thread/INFO]: Structure Info Saving: true
+[12:03:20] [Server thread/INFO]: Random Lighting Updates: false
+[12:03:20] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:03:20] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:03:20] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:03:20] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:03:20] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:03:20] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:03:20] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:03:20] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:03:20] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:03:20] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:03:20] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[12:03:20] [Server thread/INFO]: Mob Spawn Range: 4
+[12:03:20] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617 Monument: 10387313 Slime: 987234911
+[12:03:20] [Server thread/INFO]: Preparing start region for level 0 (Seed: -205972486775520897)
+[12:03:21] [Server thread/INFO]: Preparing spawn area: 60%
+[12:03:21] [Server thread/INFO]: Preparing start region for level 1 (Seed: -205972486775520897)
+[12:03:21] [Server thread/INFO]: Preparing start region for level 2 (Seed: -205972486775520897)
+[12:03:22] [Server thread/INFO]: [MyfirstPlugin] Enabling MyfirstPlugin v1.0
+[12:03:22] [Server thread/INFO]: getServer.getConsoleSender.sendMessage MyPlugin ∆Ù∂Ø¡À-------------------------------------------Dbox_xi[m
+[12:03:22] [Server thread/INFO]: System.out.println MyPlugin ∆Ù∂Ø¡Àl--------------------------------------------Dbox_xi
+[12:03:22] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[12:03:22] [Server thread/INFO]: Done (2.397s)! For help, type "help" or "?"
+[12:04:10] [User Authenticator #1/INFO]: ze_xi|------------------------------Dbox_xi
+[12:04:10] [User Authenticator #1/INFO]: Disconnecting com.mojang.authlib.GameProfile@6a77ce13[id=3ac40995-a1f4-30f0-8e77-d068521de990,name=ze_xi,properties={},legacy=false] (/127.0.0.1:52841): ƒ„≤ª «≤Ã–Ï¿§
+[12:04:10] [Server thread/INFO]: com.mojang.authlib.GameProfile@6a77ce13[id=3ac40995-a1f4-30f0-8e77-d068521de990,name=ze_xi,properties={},legacy=false] (/127.0.0.1:52841) lost connection: ƒ„≤ª «≤Ã–Ï¿§
+[12:04:45] [User Authenticator #2/INFO]: ze_xi|------------------------------Dbox_xi
+[12:04:45] [User Authenticator #2/INFO]: Disconnecting com.mojang.authlib.GameProfile@1c263188[id=3ac40995-a1f4-30f0-8e77-d068521de990,name=ze_xi,properties={},legacy=false] (/127.0.0.1:52853): ƒ„≤ª «≤Ã–Ï¿§
+[12:04:45] [Server thread/INFO]: com.mojang.authlib.GameProfile@1c263188[id=3ac40995-a1f4-30f0-8e77-d068521de990,name=ze_xi,properties={},legacy=false] (/127.0.0.1:52853) lost connection: ƒ„≤ª «≤Ã–Ï¿§
+[12:09:11] [User Authenticator #3/INFO]: Dbox_xi|------------------------------Dbox_xi
+[12:09:11] [User Authenticator #3/INFO]: UUID of player Dbox_xi is 2c59be51-1ee1-3192-950b-5471d779a754
+[12:09:11] [Server thread/INFO]: Dbox_xi[/127.0.0.1:52923] logged in with entity id 292 at ([world]176.8466111724603, 81.0, 247.78088441688703)
+[12:09:27] [Server thread/INFO]: Dbox_xi lost connection: Disconnected
+[12:09:27] [Server thread/INFO]: Dbox_xi | PlayerQuitEvent | ÕÀ≥ˆ¡À”Œœ∑∞°∞°∞°∞°∞°∞°∞°∞°∞°∞°∞°∞°∞°∞°∞°∞°
+[12:10:39] [User Authenticator #4/INFO]: Dbox_xi|------------------------------Dbox_xi
+[12:10:39] [User Authenticator #4/INFO]: UUID of player Dbox_xi is 2c59be51-1ee1-3192-950b-5471d779a754
+[12:10:39] [Server thread/INFO]: Dbox_xi[/127.0.0.1:52948] logged in with entity id 406 at ([world]193.39593684740257, 75.9375, 276.3289423735558)
+[12:11:24] [Server thread/INFO]: Dbox_xi has made the advancement [Stone Age]
+[12:11:54] [Server thread/INFO]: Dbox_xi lost connection: Disconnected
+[12:11:54] [Server thread/INFO]: Dbox_xi | PlayerQuitEvent | ÕÀ≥ˆ¡À”Œœ∑∞°∞°∞°∞°∞°∞°∞°∞°∞°∞°∞°∞°∞°∞°∞°∞°
+[12:22:20] [Thread-3/INFO]: Stopping server
+[12:22:20] [Thread-3/INFO]: onDisable.getServer.getConsoleSender.sendMessage MyPlugin πÿ±’¡Àl---------------------------Dbox_xi[m

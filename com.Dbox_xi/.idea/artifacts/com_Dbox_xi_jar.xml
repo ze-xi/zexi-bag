@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="com.Dbox_xi:jar">
+    <output-path>$PROJECT_DIR$/../../jar</output-path>
+    <root id="archive" name="com.Dbox_xi.jar">
+      <element id="module-output" name="com.Dbox_xi" />
+    </root>
+  </artifact>
+</component>
